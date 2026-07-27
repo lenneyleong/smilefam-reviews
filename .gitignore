@@ -1,0 +1,22 @@
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Secrets — never commit. The Apify key lives in .env.
+.env
+.env.*
+!.env.example
+
+# Raw photo downloads (~270 MB of 2 MB Stamped originals).
+# Reproducible from data/photos-manifest.json; the optimized masters in
+# public/reviews/img/ ARE committed, so the site builds from a fresh clone.
+data/raw/photos/
+
+.DS_Store
+*.log
+npm-debug.log*
+next-env.d.ts
+tsconfig.tsbuildinfo
+.vercel

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": {
+    "stamped": {
+      "lastHarvestedAt": "2026-07-27T14:17:19.041Z",
+      "lastSnapshotPath": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "lastCoverage": "full",
+      "lastFullHarvestAt": "2026-07-27T14:17:19.041Z",
+      "itemCount": 417,
+      "newestReviewDate": "2026-05-14T14:03:47.613Z"
+    },
+    "google": {
+      "lastHarvestedAt": "2026-07-27T14:31:26.631Z",
+      "lastSnapshotPath": "data/raw/2026-07-27T143126Z/google.json.gz",
+      "lastCoverage": "full",
+      "lastFullHarvestAt": "2026-07-27T14:31:26.631Z",
+      "itemCount": 1691,
+      "newestReviewDate": "2026-07-24T16:57:08.730Z"
+    },
+    "facebook": {
+      "lastHarvestedAt": "2026-07-27T14:26:56.946Z",
+      "lastSnapshotPath": "data/raw/2026-07-27T142656Z/facebook.json.gz",
+      "lastCoverage": "full",
+      "lastFullHarvestAt": "2026-07-27T14:26:56.946Z",
+      "itemCount": 120,
+      "newestReviewDate": "2026-06-15T17:38:30.000Z"
+    }
+  }
+}

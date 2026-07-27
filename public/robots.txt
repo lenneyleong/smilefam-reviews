@@ -1,0 +1,58 @@
+# smilefamreviews.com
+#
+# AI assistant crawlers are explicitly welcome — this site exists to be read
+# by them as much as by people. Named individually so a future default-deny
+# change in any crawler's policy never silently locks them out.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Everyone else: the whole site, minus parameterised URLs. Every legitimate
+# view has a clean allowlisted path; anything with a query string is a
+# client-side refinement and crawling it would only create duplicates.
+User-agent: *
+Allow: /
+Disallow: /*?
+
+# LLM index: https://smilefamreviews.com/llms.txt
+
+Sitemap: https://smilefamreviews.com/sitemap.xml

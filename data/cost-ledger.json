@@ -1,0 +1,117 @@
+[
+  {
+    "runId": "SbGCE0x5kSZFckFJK",
+    "actorKey": "google",
+    "actorId": "Xb8osYTtOjlsgI6k9",
+    "slug": "compass/google-maps-reviews-scraper",
+    "label": "google probe",
+    "startedAt": "2026-07-27T14:25:13.134Z",
+    "finishedAt": "2026-07-27T14:25:20.323Z",
+    "status": "SUCCEEDED",
+    "itemCount": 1,
+    "estimateUsd": 0.0005,
+    "usageTotalUsd": 0.0005,
+    "chargedEventCounts": {
+      "review-scraped": 1,
+      "apify-actor-start": 1
+    },
+    "headroomBeforeUsd": 28.999280607366064,
+    "snapshot": null
+  },
+  {
+    "runId": "dusf1LunZ3odsfAmb",
+    "actorKey": "google",
+    "actorId": "Xb8osYTtOjlsgI6k9",
+    "slug": "compass/google-maps-reviews-scraper",
+    "label": "google probe",
+    "startedAt": "2026-07-27T14:25:48.141Z",
+    "finishedAt": "2026-07-27T14:26:36.186Z",
+    "status": "SUCCEEDED",
+    "itemCount": 1,
+    "estimateUsd": 0.0005,
+    "usageTotalUsd": 0.00005,
+    "chargedEventCounts": {
+      "review-scraped": 1,
+      "apify-actor-start": 1
+    },
+    "headroomBeforeUsd": 28.998778114497973,
+    "snapshot": null
+  },
+  {
+    "runId": "idj5VmPAa6aLl5g55",
+    "note": "superseded — snapshot discarded, re-harvested with PII redaction",
+    "actorKey": "google",
+    "actorId": "Xb8osYTtOjlsgI6k9",
+    "slug": "compass/google-maps-reviews-scraper",
+    "label": "google full",
+    "startedAt": "2026-07-27T14:26:43.771Z",
+    "finishedAt": "2026-07-27T14:28:38.477Z",
+    "status": "SUCCEEDED",
+    "itemCount": 1691,
+    "estimateUsd": 0.8375,
+    "usageTotalUsd": 0.7425499999999999,
+    "chargedEventCounts": {
+      "review-scraped": 1691,
+      "apify-actor-start": 1
+    },
+    "headroomBeforeUsd": 28.998723971230103,
+    "snapshot": null
+  },
+  {
+    "runId": "5PfzHfjHgNJElSAuo",
+    "actorKey": "facebook",
+    "actorId": "dX3d80hsNMilEwjXG",
+    "slug": "apify/facebook-reviews-scraper",
+    "label": "facebook",
+    "startedAt": "2026-07-27T14:26:59.432Z",
+    "finishedAt": "2026-07-27T14:29:05.024Z",
+    "status": "SUCCEEDED",
+    "itemCount": 120,
+    "estimateUsd": 0.401,
+    "usageTotalUsd": 0.23500000000000001,
+    "chargedEventCounts": {
+      "review": 117,
+      "actor-start": 1
+    },
+    "headroomBeforeUsd": 28.998723971230103,
+    "snapshot": null
+  },
+  {
+    "runId": "NNAZipWiOhcog0oaJ",
+    "actorKey": "google",
+    "actorId": "Xb8osYTtOjlsgI6k9",
+    "slug": "compass/google-maps-reviews-scraper",
+    "label": "google probe",
+    "startedAt": "2026-07-27T14:31:19.710Z",
+    "finishedAt": "2026-07-27T14:31:25.581Z",
+    "status": "SUCCEEDED",
+    "itemCount": 1,
+    "estimateUsd": 0.0005,
+    "usageTotalUsd": 0.00005,
+    "chargedEventCounts": {
+      "review-scraped": 0,
+      "apify-actor-start": 1
+    },
+    "headroomBeforeUsd": 27.99545944575062,
+    "snapshot": null
+  },
+  {
+    "runId": "UFqClPaQq7HkamCXt",
+    "actorKey": "google",
+    "actorId": "Xb8osYTtOjlsgI6k9",
+    "slug": "compass/google-maps-reviews-scraper",
+    "label": "google full",
+    "startedAt": "2026-07-27T14:31:27.873Z",
+    "finishedAt": "2026-07-27T14:33:38.779Z",
+    "status": "SUCCEEDED",
+    "itemCount": 1691,
+    "estimateUsd": 0.8375,
+    "usageTotalUsd": 0.73805,
+    "chargedEventCounts": {
+      "review-scraped": 1691,
+      "apify-actor-start": 1
+    },
+    "headroomBeforeUsd": 27.99545944575062,
+    "snapshot": null
+  }
+]

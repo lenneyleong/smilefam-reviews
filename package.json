@@ -1,0 +1,53 @@
+{
+  "name": "smilefam-reviews",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --tsconfig tsconfig.scripts.json --test \"lib/**/*.test.ts\" \"scripts/**/*.test.ts\"",
+    "harvest:stamped": "tsx --tsconfig tsconfig.scripts.json scripts/harvest/stamped.ts",
+    "harvest:products": "tsx --tsconfig tsconfig.scripts.json scripts/harvest/shopify-products.ts",
+    "harvest:shopee-stats": "tsx --tsconfig tsconfig.scripts.json scripts/harvest/shopee-shop-stats.ts",
+    "harvest:google": "tsx --tsconfig tsconfig.scripts.json scripts/harvest/google.ts",
+    "harvest:shopee": "tsx --tsconfig tsconfig.scripts.json scripts/harvest/shopee.ts",
+    "harvest:facebook": "tsx --tsconfig tsconfig.scripts.json scripts/harvest/facebook.ts",
+    "normalize": "tsx --tsconfig tsconfig.scripts.json scripts/normalize.ts",
+    "aggregate": "tsx --tsconfig tsconfig.scripts.json scripts/aggregate.ts",
+    "images": "tsx --tsconfig tsconfig.scripts.json scripts/images.ts",
+    "translate": "tsx --tsconfig tsconfig.scripts.json scripts/translate.ts",
+    "verify": "tsx --tsconfig tsconfig.scripts.json scripts/verify.ts",
+    "refresh": "tsx --tsconfig tsconfig.scripts.json scripts/refresh.ts",
+    "apify:status": "tsx --tsconfig tsconfig.scripts.json scripts/apify-status.ts",
+    "lint:anchors": "tsx --tsconfig tsconfig.scripts.json scripts/lint-anchors.ts",
+    "check:orphans": "tsx --tsconfig tsconfig.scripts.json scripts/check-orphans.ts",
+    "prebuild": "npm run verify && npm run check:orphans"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "dotenv": "^17.4.2",
+    "franc-min": "^6.2.0",
+    "next": "^16.2.12",
+    "p-limit": "^6.2.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "sharp": "^0.35.3",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.14",
+    "@types/node": "^22.18.6",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "postcss": "^8.5.23",
+    "tailwindcss": "^4.1.14",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  },
+  "overrides": {
+    "sharp": "^0.35.3",
+    "postcss": "^8.5.23"
+  }
+}

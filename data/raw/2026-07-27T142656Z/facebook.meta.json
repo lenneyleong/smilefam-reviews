@@ -1,0 +1,12 @@
+{
+  "coverage": "full",
+  "harvestedAt": "2026-07-27T14:26:56.946Z",
+  "adapterVersion": "facebook@1",
+  "apifyRunId": "5PfzHfjHgNJElSAuo",
+  "costUsd": 0.23500000000000001,
+  "platformReportedCount": null,
+  "platformReportedAverage": null,
+  "notes": "118 of 120 are recommendations; 120 carry text. Facebook exposes no star rating and no review photos, so this source is excluded from the weighted average by design.",
+  "source": "facebook",
+  "itemCount": 120
+}

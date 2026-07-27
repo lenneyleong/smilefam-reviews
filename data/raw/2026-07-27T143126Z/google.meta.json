@@ -1,0 +1,12 @@
+{
+  "coverage": "full",
+  "harvestedAt": "2026-07-27T14:31:26.631Z",
+  "adapterVersion": "google@1",
+  "apifyRunId": "UFqClPaQq7HkamCXt",
+  "costUsd": 0.73805,
+  "platformReportedCount": 1691,
+  "platformReportedAverage": 4.8,
+  "notes": "Google reports 1691 reviews on the listing; 1691 were returned, 1691 with an attributable name. Reviewer names were redacted to \"First L.\" at the harvest boundary — no surname, reviewer ID or avatar URL is stored in this snapshot.",
+  "source": "google",
+  "itemCount": 1691
+}

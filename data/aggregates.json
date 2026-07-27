@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-07-27T17:55:20.927Z",
+  "lastSyncedAt": "2026-07-27T14:31:26.631Z",
+  "reviewsSha256": "cd282323e9e07c88d60a86cef39ed4506db14daa020cd87220f942ef037fa001",
+  "totals": {
+    "reviewCount": 1874,
+    "ratedReviewCount": 1754,
+    "recommendationCount": 118,
+    "withPhotoCount": 136,
+    "photoCount": 284,
+    "verifiedBuyerCount": 6,
+    "uniqueContentCount": 1858
+  },
+  "weightedAverage": {
+    "value": 4.82,
+    "n": 1754,
+    "basis": "Rated reviews only. Facebook recommendations carry no star rating and are excluded."
+  },
+  "ratingDistribution": {
+    "1": 3,
+    "2": 2,
+    "3": 1,
+    "4": 296,
+    "5": 1452
+  },
+  "bySource": {
+    "stamped": {
+      "harvestedCount": 136,
+      "ratedCount": 136,
+      "average": 5,
+      "withPhotoCount": 136,
+      "firstDate": "2023-08-02T15:10:27.443Z",
+      "lastDate": "2026-05-14T14:03:47.613Z",
+      "platformReportedCount": 417,
+      "platformReportedAverage": 5,
+      "discrepancy": 281
+    },
+    "google": {
+      "harvestedCount": 1618,
+      "ratedCount": 1618,
+      "average": 4.8,
+      "withPhotoCount": 0,
+      "firstDate": "2023-09-11T05:20:01.559Z",
+      "lastDate": "2026-07-24T16:57:08.730Z",
+      "platformReportedCount": 1691,
+      "platformReportedAverage": 4.8,
+      "discrepancy": 73
+    },
+    "shopee": {
+      "harvestedCount": 0,
+      "ratedCount": 0,
+      "average": null,
+      "withPhotoCount": 0,
+      "firstDate": null,
+      "lastDate": null,
+      "platformReportedCount": 508,
+      "platformReportedAverage": 4.915832,
+      "discrepancy": 508
+    },
+    "facebook": {
+      "harvestedCount": 120,
+      "ratedCount": 0,
+      "average": null,
+      "withPhotoCount": 0,
+      "firstDate": "2023-09-09T18:28:02.000Z",
+      "lastDate": "2026-06-15T17:38:30.000Z",
+      "platformReportedCount": null,
+      "platformReportedAverage": null,
+      "discrepancy": null
+    }
+  },
+  "byProduct": [
+    {
+      "handle": "smilefam-bundle-kit",
+      "name": "Whitening Electric Toothbrush Bundle",
+      "url": "https://getsmilefam.com/products/smilefam-bundle-kit",
+      "count": 126,
+      "average": 5,
+      "withPhotoCount": 126,
+      "showAverage": true
+    },
+    {
+      "handle": "blu-teeth-whitening-kit",
+      "name": "BLU Teeth Whitening Kit",
+      "url": "https://getsmilefam.com/products/blu-teeth-whitening-kit",
+      "count": 10,
+      "average": 5,
+      "withPhotoCount": 10,
+      "showAverage": true
+    }
+  ],
+  "dateRange": {
+    "first": "2023-08-02T15:10:27.443Z",
+    "last": "2026-07-24T16:57:08.730Z"
+  }
+}

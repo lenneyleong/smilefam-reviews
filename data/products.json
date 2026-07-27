@@ -1,0 +1,94 @@
+[
+  {
+    "shopifyProductId": "9479756611879",
+    "title": "Whiter Teeth, Better Smile and Korean Beauty in Just 15 Minutes!",
+    "handle": "blu-teeth-whitening-kit",
+    "url": "https://getsmilefam.com/products/blu-teeth-whitening-kit",
+    "productType": "Teeth Whitening Kit",
+    "skus": [
+      "400"
+    ],
+    "priceSgd": "329.00"
+  },
+  {
+    "shopifyProductId": "10113340080423",
+    "title": "K-Smile™ Whitening Toothpaste",
+    "handle": "blu-whitening-toothpaste",
+    "url": "https://getsmilefam.com/products/blu-whitening-toothpaste",
+    "productType": "Whitening Toothpaste",
+    "skus": [],
+    "priceSgd": "39.00"
+  },
+  {
+    "shopifyProductId": "10301466804519",
+    "title": "Whiter Teeth, Better Smile and Achieve Korean Beauty in Just 10 Minutes!",
+    "handle": "ksmile-usa",
+    "url": "https://getsmilefam.com/products/ksmile-usa",
+    "productType": "Teeth Whitening Kit",
+    "skus": [],
+    "priceSgd": "130.00"
+  },
+  {
+    "shopifyProductId": "10285318144295",
+    "title": "SmileClub 60 Days Pack",
+    "handle": "smileclub-90-days-pack",
+    "url": "https://getsmilefam.com/products/smileclub-90-days-pack",
+    "productType": "Toothbrush Head Refill",
+    "skus": [],
+    "priceSgd": "200.00"
+  },
+  {
+    "shopifyProductId": "10269088907559",
+    "title": "SmileClub Refiller Pack (3 Months Usage)",
+    "handle": "smileclub-refiller-pack-3-months-usage",
+    "url": "https://getsmilefam.com/products/smileclub-refiller-pack-3-months-usage",
+    "productType": "Toothbrush Head Refill",
+    "skus": [],
+    "priceSgd": "117.00"
+  },
+  {
+    "shopifyProductId": "10269089857831",
+    "title": "SmileClub Whitening Pack (3 Months Usage)",
+    "handle": "smileclub-whitening-pack-3-months-usage",
+    "url": "https://getsmilefam.com/products/smileclub-whitening-pack-3-months-usage",
+    "productType": "Teeth Whitening Pen",
+    "skus": [],
+    "priceSgd": "120.00"
+  },
+  {
+    "shopifyProductId": "10269090873639",
+    "title": "SmileClub Whitening Toothpaste (3 Months Usage)",
+    "handle": "smileclub-whitening-toothpaste-3-months-usage",
+    "url": "https://getsmilefam.com/products/smileclub-whitening-toothpaste-3-months-usage",
+    "productType": "Whitening Toothpaste",
+    "skus": [],
+    "priceSgd": "119.00"
+  },
+  {
+    "shopifyProductId": "8316641050919",
+    "title": "⁠K-Smile™ Electric Toothbrush Bundle",
+    "handle": "smilefam-bundle-kit",
+    "url": "https://getsmilefam.com/products/smilefam-bundle-kit",
+    "productType": "Ultrasonic Toothbrush",
+    "skus": [],
+    "priceSgd": "189.00"
+  },
+  {
+    "shopifyProductId": "8834534539559",
+    "title": "SmileFam Refiller Pack (Contains 2 Refillers)",
+    "handle": "smilefam-refiller-pack-contains-2-refillers",
+    "url": "https://getsmilefam.com/products/smilefam-refiller-pack-contains-2-refillers",
+    "productType": "Toothbrush Head Refill",
+    "skus": [],
+    "priceSgd": "39.00"
+  },
+  {
+    "shopifyProductId": "10141738598695",
+    "title": "Snow Serum™ Whitening Pen (1 Pen)",
+    "handle": "whiteningpen",
+    "url": "https://getsmilefam.com/products/whiteningpen",
+    "productType": "Teeth Whitening Pen",
+    "skus": [],
+    "priceSgd": "40.00"
+  }
+]

@@ -1,0 +1,143 @@
+/**
+ * source(none) + explicit @source: without it Tailwind scans the whole
+ * project (including .claude/skills CSV/data files) and emits dead selectors
+ * for every token that happens to look like a class name.
+ */
+@import "tailwindcss" source(none);
+@source "../app";
+@source "../components";
+
+/**
+ * SmileFam brand tokens.
+ *
+ * Locked in ~/.claude memory (project_smilefambrand). Deep Navy is the primary;
+ * Iridescent Glow is a gradient, never a flat colour, and is applied to exactly
+ * ONE word in a headline — that restraint is the brand's typographic signature,
+ * so `.text-glow` is deliberately the only way to reach it.
+ *
+ * Phase 4 (frontend-design pass) sets the real visual direction. These are the
+ * raw brand facts everything else has to honour.
+ */
+@theme {
+  --color-navy: #002351;
+  --color-navy-soft: #1b3a66;
+  --color-white: #ffffff;
+  --color-mist: #e6e8ea;
+  --color-silver: #bdbdbc;
+
+  --font-display: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+  --font-body: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+  /* Provenance fingerprints only. System stack — no download cost. */
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace;
+
+  /* Eyebrows and table headers. Echoes the wordmark's letterspacing at a
+     smaller scale, which is what ties the utility type to the brand. */
+  --tracking-label: 0.14em;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: var(--color-white);
+  color: var(--color-navy);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+/**
+ * Iridescent Glow: cool blue → lavender → pearl → pink tint.
+ * One word per headline. Falls back to navy where background-clip is
+ * unsupported, so the text is never invisible.
+ */
+.text-glow {
+  color: var(--color-navy);
+}
+
+@supports (background-clip: text) or (-webkit-background-clip: text) {
+  /* Every stop holds ≥3:1 against white — the original ramp bottomed out at
+     1.08:1, making the glow word illegible for low-vision readers. */
+  .text-glow {
+    background-image: linear-gradient(
+      100deg,
+      #2f6ad0 0%,
+      #6b4fc4 32%,
+      #4a5a86 58%,
+      #c04a86 100%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+}
+
+/* One consistent, visible focus indicator for every link-like control. */
+:where(a, summary, [tabindex]):focus-visible {
+  outline: 2px solid var(--color-navy);
+  outline-offset: 4px;
+  border-radius: 2px;
+}
+
+/**
+ * Photo-gallery cards: let the browser skip layout/paint for off-screen
+ * entries. The intrinsic-size reservation keeps the scrollbar stable.
+ */
+.photo-card {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 420px;
+}
+
+/**
+ * The wordmark is one letterspaced unit, single navy tone — never two weights.
+ * Encoded as a utility so no future edit can split it into "SMILE" + "FAM".
+ */
+.wordmark {
+  font-family: var(--font-display);
+  font-weight: 800;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--color-navy);
+}
+
+/* Reviews are long-form text. Cap measure for readability. */
+.prose-measure {
+  max-width: 68ch;
+}
+
+/**
+ * The distribution bar.
+ *
+ * One orchestrated page-load moment and nothing else on the page animates: the
+ * segments draw outward from the left, and the critical sliver settles last, so
+ * the eye lands on the smallest and most important part of the chart. Scattered
+ * micro-animations would undercut the audit-statement tone.
+ */
+.bar-segment {
+  transform-origin: left;
+  animation: bar-draw 620ms cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+
+.bar-critical {
+  animation-delay: 380ms;
+}
+
+@keyframes bar-draw {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bar-segment {
+    animation: none;
+  }
+}
+
+/* The critical segment is only ~0.4% wide. Give it a real hit area. */
+.bar-critical {
+  min-width: 4px;
+}
