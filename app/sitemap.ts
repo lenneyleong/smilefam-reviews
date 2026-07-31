@@ -18,6 +18,8 @@ import { SITE } from "@/lib/schema";
  * - /all stays out: it is noindex by design.
  */
 
+export const dynamic = "force-static";
+
 const SITEMAP_PAGE_CAP = MAX_PAGES;
 
 export default function sitemap(): MetadataRoute.Sitemap {

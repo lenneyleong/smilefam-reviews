@@ -8,6 +8,8 @@ import { formatCount, formatRating, getAggregates } from "@/lib/data";
  * page. Runs in the Node runtime — the server-only data module is fine here.
  */
 
+export const dynamic = "force-static";
+
 export const alt =
   "SmileFam Reviews — every review, including the bad ones";
 export const size = { width: 1200, height: 630 };
