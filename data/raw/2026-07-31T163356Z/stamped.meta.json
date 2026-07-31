@@ -1,0 +1,12 @@
+{
+  "coverage": "full",
+  "harvestedAt": "2026-07-31T16:33:56.254Z",
+  "adapterVersion": "stamped@1",
+  "apifyRunId": null,
+  "costUsd": 0,
+  "platformReportedCount": 417,
+  "platformReportedAverage": 5,
+  "notes": "Stamped reports 417 published of 489 total (72 collected but not displayed by the store). 136 of 417 carry customer photos.",
+  "source": "stamped",
+  "itemCount": 417
+}

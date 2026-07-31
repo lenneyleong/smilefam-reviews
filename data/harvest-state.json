@@ -2,12 +2,13 @@
   "version": 1,
   "sources": {
     "stamped": {
-      "lastHarvestedAt": "2026-07-27T14:17:19.041Z",
-      "lastSnapshotPath": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "lastHarvestedAt": "2026-07-31T16:33:56.254Z",
+      "lastSnapshotPath": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "lastCoverage": "full",
-      "lastFullHarvestAt": "2026-07-27T14:17:19.041Z",
+      "lastFullHarvestAt": "2026-07-31T16:33:56.254Z",
       "itemCount": 417,
-      "newestReviewDate": "2026-05-14T14:03:47.613Z"
+      "newestReviewDate": "2026-07-10T07:07:51.797Z",
+      "stampedPhotoOnly": true
     },
     "google": {
       "lastHarvestedAt": "2026-07-27T14:31:26.631Z",

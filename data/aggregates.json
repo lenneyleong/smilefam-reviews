@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-27T17:55:20.927Z",
-  "lastSyncedAt": "2026-07-27T14:31:26.631Z",
-  "reviewsSha256": "cd282323e9e07c88d60a86cef39ed4506db14daa020cd87220f942ef037fa001",
+  "generatedAt": "2026-07-31T16:34:07.283Z",
+  "lastSyncedAt": "2026-07-31T16:33:56.254Z",
+  "reviewsSha256": "db7f6de11eff7f2949384cfc7cef302521d4e4e34f3d85822c58dc6c4e63092a",
   "totals": {
     "reviewCount": 1874,
     "ratedReviewCount": 1754,
@@ -53,9 +53,9 @@
       "withPhotoCount": 0,
       "firstDate": null,
       "lastDate": null,
-      "platformReportedCount": 508,
-      "platformReportedAverage": 4.915832,
-      "discrepancy": 508
+      "platformReportedCount": 510,
+      "platformReportedAverage": 4.912176,
+      "discrepancy": 510
     },
     "facebook": {
       "harvestedCount": 120,

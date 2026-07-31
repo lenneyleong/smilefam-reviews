@@ -53,8 +53,18 @@ export function loadProductMap(): Map<string, ProductRecord> {
 }
 
 export async function run(): Promise<void> {
+  // Shopify's edge 429s any bot-identifying User-Agent on products.json
+  // (observed 2026-08: instant `local_rate_limited`, never recovers). This is
+  // our own storefront, so presenting a browser UA here is not deceptive —
+  // the honest bot UA stays in place for every third-party endpoint.
   const payload = await getJson<{ products: unknown[] }>(
     `${STORE}/products.json?limit=250`,
+    {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+      },
+    },
   );
 
   const products: ProductRecord[] = payload.products

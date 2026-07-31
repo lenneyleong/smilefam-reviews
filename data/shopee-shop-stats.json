@@ -1,13 +1,14 @@
 {
-  "fetchedAt": "2026-07-27T14:18:12.021Z",
+  "fetchedAt": "2026-07-31T16:33:56.250Z",
   "shopId": "1362689438",
   "name": "SmileFam",
-  "ratingStar": 4.915832,
-  "ratingGood": 498,
-  "ratingNormal": 9,
+  "ratingStar": 4.912176,
+  "ratingGood": 499,
+  "ratingNormal": 10,
   "ratingBad": 1,
-  "ratingTotal": 508,
+  "ratingTotal": 510,
   "itemCount": 5,
-  "followerCount": 587,
-  "isOfficialShop": true
+  "followerCount": 591,
+  "isOfficialShop": true,
+  "previousRatingTotal": 508
 }

@@ -6024,8 +6024,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 6,
       "bodySha256": "e4e1674db9ff7187305e3d28f895f8fa0426a2695de352f2aca3366e3dbf4dd7",
       "adapterVersion": "stamped@1",
@@ -6033,7 +6033,7 @@
     },
     "status": "active",
     "firstSeenOn": "2026-05-14",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:Ci9DQUlRQUNvZENodHljRjlvT2xaaU5EUkNlWFJMZDAxNU9VOWhVVFkzVHpkT2JYYxAB",
@@ -9268,8 +9268,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 9,
       "bodySha256": "de7ba16bebb1b1d28fb87568638bd116033d03622517fb027afdb065434f83f4",
       "adapterVersion": "stamped@1",
@@ -9277,7 +9277,7 @@
     },
     "status": "active",
     "firstSeenOn": "2026-04-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:Ci9DQUlRQUNvZENodHljRjlvT2tWMlJFWkpMVUZJVldGWlMxZGFRVmhzVlU5NVlVRRAB",
@@ -15919,8 +15919,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 16,
       "bodySha256": "16df9b9aa47d7fdbda881cf1869bc1e4711e3045ffc091b0af1f6318c43af971",
       "adapterVersion": "stamped@1",
@@ -15928,7 +15928,7 @@
     },
     "status": "active",
     "firstSeenOn": "2026-01-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:Ci9DQUlRQUNvZENodHljRjlvT2xBemRsOTZkRlJEWmpneWRXbHNjRFo1UTJsbFltYxAB",
@@ -24916,8 +24916,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 47,
       "bodySha256": "4537645102fa6778c3e68dfa7b172a395c40b642a7a8f8d0421e61c9b82fedaa",
       "adapterVersion": "stamped@1",
@@ -24925,7 +24925,7 @@
     },
     "status": "active",
     "firstSeenOn": "2025-12-08",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnTUNvMk5YNFBBEAE",
@@ -47004,8 +47004,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 109,
       "bodySha256": "7fbede4546da2ed9ec66ae976701575687e49dd82a2da8456abe694289b32cc2",
       "adapterVersion": "stamped@1",
@@ -47013,7 +47013,7 @@
     },
     "status": "active",
     "firstSeenOn": "2025-08-18",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:Ci9DQUlRQUNvZENodHljRjlvT21sRU1FUXhaM05IY0VGU2VqQkZiMjVJZFVSMFZuYxAB",
@@ -57937,8 +57937,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 127,
       "bodySha256": "6c584383043ce4112c2764fdde211765b9fc00d37755c4a49227ce0b486da126",
       "adapterVersion": "stamped@1",
@@ -57946,7 +57946,7 @@
     },
     "status": "active",
     "firstSeenOn": "2025-06-26",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:Ci9DQUlRQUNvZENodHljRjlvT2tSNllrYzVjMUZXTW5jeFFYQkRlalJKTVd4eFZrRRAB",
@@ -64695,8 +64695,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 151,
       "bodySha256": "7251099386d815d855224f4a5ccf767b3983f150581309e2ff6faccb6888a472",
       "adapterVersion": "stamped@1",
@@ -64704,7 +64704,7 @@
     },
     "status": "active",
     "firstSeenOn": "2025-04-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnTUNJNm9fMzFnRRAB",
@@ -69482,8 +69482,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 169,
       "bodySha256": "9b36afa6cb14a7461642f7ddfd4cd1aa3eb4c5dc181393cefaa490ac0b9e3f28",
       "adapterVersion": "stamped@1",
@@ -69491,7 +69491,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-12-06",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURQNTYySFZREAE",
@@ -69747,8 +69747,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 171,
       "bodySha256": "4d8750b2b1f5d4083dd667611f887d6bf3f9932b34ddc54f90833cbf61016447",
       "adapterVersion": "stamped@1",
@@ -69756,7 +69756,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-11-29",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURQNkxTdWZ3EAE",
@@ -70003,8 +70003,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 175,
       "bodySha256": "4dcfee91725aa73480bf2dec64586eb24ae156bdfcea60d923bb2e678c6ddf32",
       "adapterVersion": "stamped@1",
@@ -70012,7 +70012,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-11-28",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNQbTVXZi13RRAB",
@@ -70152,8 +70152,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 176,
       "bodySha256": "86c4cbac130c598503e323575c8c72e5ccf68f4392815845489987f9945acb63",
       "adapterVersion": "stamped@1",
@@ -70161,7 +70161,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-11-28",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:140887442",
@@ -70243,8 +70243,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 179,
       "bodySha256": "c9f394c248f418db1b0afe358d93dbab36a434619014c42edeba9ecef3cdb505",
       "adapterVersion": "stamped@1",
@@ -70252,7 +70252,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-11-18",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:d248e578fb3941881e8fd954",
@@ -73651,8 +73651,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 194,
       "bodySha256": "a21e084c4865b97ca6bbac73219a91a516b5bac97b9e0814f883b9305e90ab34",
       "adapterVersion": "stamped@1",
@@ -73660,7 +73660,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-09-20",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:1c8c9a88ba59494a8bbdd264",
@@ -74857,8 +74857,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 198,
       "bodySha256": "70440e7c26ae92f611d841fc28f4757f07d6ba0c0bc2a46910525d49ab17e4f4",
       "adapterVersion": "stamped@1",
@@ -74866,7 +74866,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-08-08",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:136274993",
@@ -74921,8 +74921,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 199,
       "bodySha256": "fa686e52cff5b0284d368861d5e9860e0b3fc357215f66770695690701c38f52",
       "adapterVersion": "stamped@1",
@@ -74930,7 +74930,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-08-03",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:f1c829f87a4dd746b01c45e6",
@@ -75100,8 +75100,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 202,
       "bodySha256": "6c188ae84d6aa9007ac254f0c6b22cc5980c041f6808addfe7e9e08df88762b7",
       "adapterVersion": "stamped@1",
@@ -75109,7 +75109,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-31",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNidl95cWd3RRAB",
@@ -75258,8 +75258,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 203,
       "bodySha256": "50126b9a8fe9b56f105137c1ec0af2f9a8a013e58914e763becc2eae62a9f31f",
       "adapterVersion": "stamped@1",
@@ -75267,7 +75267,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-31",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNiejVqckZREAE",
@@ -75503,8 +75503,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 204,
       "bodySha256": "bb969eac6dd6591049dfa3d01cb3ad34545c791c97c506f3469ffe0e9a6dd823",
       "adapterVersion": "stamped@1",
@@ -75512,7 +75512,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-31",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNiajZ2NTBRRRAB",
@@ -75673,8 +75673,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 205,
       "bodySha256": "8d300516439c50ba53b869f95e2e17582c451e8beade7518a76396b4e151f354",
       "adapterVersion": "stamped@1",
@@ -75682,7 +75682,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-30",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNiLXZhcS1RRRAB",
@@ -75881,8 +75881,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 209,
       "bodySha256": "14bcac578109a42f73cba4466b7d824af835de05a685ff670e11f47b0ce88686",
       "adapterVersion": "stamped@1",
@@ -75890,7 +75890,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:0b9fe0e2378dc61c53130849",
@@ -75993,8 +75993,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 210,
       "bodySha256": "f76d149474adf653794e0ffa9eaaedfc64edffbf34cf14fe17724ccab48bb1f4",
       "adapterVersion": "stamped@1",
@@ -76002,7 +76002,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:135628402",
@@ -76057,8 +76057,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 211,
       "bodySha256": "222f5965cd4804d6d4b2b66b6444a2f5505619d7dafca8272a51f2f65f544563",
       "adapterVersion": "stamped@1",
@@ -76066,7 +76066,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNiNExUdFhBEAE",
@@ -76282,8 +76282,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 213,
       "bodySha256": "92513dfa1b6c0e2d695356043b687431f3c741569a80eec088603437edd3193f",
       "adapterVersion": "stamped@1",
@@ -76291,7 +76291,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-19",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURyaWNlR1dBEAE",
@@ -76412,8 +76412,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 215,
       "bodySha256": "cc01226083fff8665ae347ca8a9ba9348e7e722d3b5b5b68cb13a66d0c7167e7",
       "adapterVersion": "stamped@1",
@@ -76421,7 +76421,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-18",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURyb2UzdFpBEAE",
@@ -76552,8 +76552,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 217,
       "bodySha256": "63a49dec6ebe0c6d69da1b2f4c401249ebb262ef4b037feff2440efdd23fa715",
       "adapterVersion": "stamped@1",
@@ -76561,7 +76561,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-18",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURyNG9uLVJREAE",
@@ -76828,8 +76828,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 220,
       "bodySha256": "9d217b3f0b6f58f693665e4ab0b008622ab32e34279dfddf309c3750c59f6db8",
       "adapterVersion": "stamped@1",
@@ -76837,7 +76837,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-12",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNyNjd1Rk13EAE",
@@ -77276,8 +77276,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 224,
       "bodySha256": "056950db5c84a9c77bbdb2c6445d53a720af23675b39793d2d4dd407438330f7",
       "adapterVersion": "stamped@1",
@@ -77285,7 +77285,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-10",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNyN2VqMDBRRRAB",
@@ -77398,8 +77398,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 225,
       "bodySha256": "2b819ebad72c0f7e8233f987a69bf1ce8eda35b89c719e8c337ebb9ef9f12093",
       "adapterVersion": "stamped@1",
@@ -77407,7 +77407,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-10",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNycmVQQUFREAE",
@@ -77586,8 +77586,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 226,
       "bodySha256": "4faebc264f5f45dc2ca9101f963ad4ec37635fd3974bd898a1f6996568d7d005",
       "adapterVersion": "stamped@1",
@@ -77595,7 +77595,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-10",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNycmVqRnZnRRAB",
@@ -77876,8 +77876,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 227,
       "bodySha256": "f9520f0ba326770fed1211c9625e2eada0c9f77b7a8a6f2fa55e61f30643868f",
       "adapterVersion": "stamped@1",
@@ -77885,7 +77885,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-09",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:c33006404b37797e97491e0c",
@@ -78103,8 +78103,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 229,
       "bodySha256": "d2953ca6f94eaaa41112503b84852bac7a3b3d75fe35063d71e35cf6c03ceaa9",
       "adapterVersion": "stamped@1",
@@ -78112,7 +78112,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-08",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChRDSUhNMG9nS0VJQ0FnSUNyaWFRdhAB",
@@ -78376,8 +78376,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 233,
       "bodySha256": "934a8c40862bd40097fe405feb78e4139d21e47dbd1a540a62dadb796cfa4c1e",
       "adapterVersion": "stamped@1",
@@ -78385,7 +78385,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-07",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNyM3MzQUFnEAE",
@@ -78588,8 +78588,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 234,
       "bodySha256": "b249c8b33aebf3741337137be24430ec075554e10ea8a6d374e14bec76cec13e",
       "adapterVersion": "stamped@1",
@@ -78597,7 +78597,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-06",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:f5e8920aaa4b140427a4c2af",
@@ -78736,8 +78736,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 235,
       "bodySha256": "b7d134a0a1a8ebaf73642b7632e0358ac7a4fe8c547fa95465f26c1b5ff17e37",
       "adapterVersion": "stamped@1",
@@ -78745,7 +78745,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-06",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNyNXNqaGZREAE",
@@ -79069,8 +79069,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 238,
       "bodySha256": "dcb7d525c82fa4c3a068001a337123f8e65196d86f4d25ebe7c65b6158318baa",
       "adapterVersion": "stamped@1",
@@ -79078,7 +79078,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNyako2b0NBEAE",
@@ -79381,8 +79381,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 241,
       "bodySha256": "f97e5d261c15cf92a993b96225f4a9608a92c8befd90e51050f955a04ef6395a",
       "adapterVersion": "stamped@1",
@@ -79390,7 +79390,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-03",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:134786187",
@@ -79463,8 +79463,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 243,
       "bodySha256": "dcb73bd9bb9ac48851b8bb87d7fe47b5d6ef0cebb5bbcaf6d33a6f82ed85a8a1",
       "adapterVersion": "stamped@1",
@@ -79472,7 +79472,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-03",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNyc01LZnNRRRAB",
@@ -79765,8 +79765,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 249,
       "bodySha256": "590673f6588db50c49767a39b5cf9c1a15badf670042ec2c454ec184331afe00",
       "adapterVersion": "stamped@1",
@@ -79774,7 +79774,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-07-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:134557851",
@@ -79838,8 +79838,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 250,
       "bodySha256": "c098255660e74187d8b61902160bb2c8316a37f5ea35e44fa5e3b74235f8472c",
       "adapterVersion": "stamped@1",
@@ -79847,7 +79847,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-30",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:f07ac9c8ee2d3740722df784",
@@ -79977,8 +79977,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 252,
       "bodySha256": "15fc950b0aa3141b7d83934b39cb679641aa6ff37939fa23aee7debc4fca6aaa",
       "adapterVersion": "stamped@1",
@@ -79986,7 +79986,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-28",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURMbHE3anJRRRAB",
@@ -80146,8 +80146,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 255,
       "bodySha256": "faa7cc19a2449d4b1e072d60bd0704de1e8fdada6909a833ac7cfff0da1c81ca",
       "adapterVersion": "stamped@1",
@@ -80155,7 +80155,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-26",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURMd29QSnR3RRAB",
@@ -80428,8 +80428,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 257,
       "bodySha256": "f98d7a274f94f74e14fabdd09514c30bda3beb7efa508fbcce12058559d1bf86",
       "adapterVersion": "stamped@1",
@@ -80437,7 +80437,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-26",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURMaElUQ253RRAB",
@@ -80604,8 +80604,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 258,
       "bodySha256": "fbe2667311a1b6107386c33c3d56a78d2ec05ad4e187376bb4b6dfac53749123",
       "adapterVersion": "stamped@1",
@@ -80613,7 +80613,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-25",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:845397da526833eec76a08ec",
@@ -80839,8 +80839,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 259,
       "bodySha256": "699ec975da5ed7ca8c120569f53c011ea19ea442e4fe2afb5551e1f4970bcc07",
       "adapterVersion": "stamped@1",
@@ -80848,7 +80848,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-24",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNMX19HNWhnRRAB",
@@ -81151,8 +81151,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 260,
       "bodySha256": "1c4e4299e122683c8528cf4495f47b469b05294c6683b91f4438295b7bc7fac0",
       "adapterVersion": "stamped@1",
@@ -81160,7 +81160,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-23",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNMaGZuZHR3RRAB",
@@ -81359,8 +81359,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 261,
       "bodySha256": "b26940b787377321e71b5662f410574e1314275b8da177b4e9be199a5047c289",
       "adapterVersion": "stamped@1",
@@ -81368,7 +81368,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-21",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNMNmZpdDBRRRAB",
@@ -81629,8 +81629,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 263,
       "bodySha256": "b22f67651818a04311ff363183c2d3f6103643274ec9f4be4ec9dac9b792b636",
       "adapterVersion": "stamped@1",
@@ -81638,7 +81638,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-19",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNMX3I3empBRRAB",
@@ -81845,8 +81845,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 264,
       "bodySha256": "6dafb35a062aa2d6d11f5fe0b17699f843ce8278cff4d77f89fec7d1bad85dbd",
       "adapterVersion": "stamped@1",
@@ -81854,7 +81854,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-18",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNMaHBTRHh3RRAB",
@@ -82214,8 +82214,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 267,
       "bodySha256": "d7803be0059776e5a76e185a39a90b38f5db50cc01a872a6d6a1e22c70d29370",
       "adapterVersion": "stamped@1",
@@ -82223,7 +82223,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-17",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:133613364",
@@ -82296,8 +82296,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 268,
       "bodySha256": "d7803be0059776e5a76e185a39a90b38f5db50cc01a872a6d6a1e22c70d29370",
       "adapterVersion": "stamped@1",
@@ -82305,7 +82305,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-17",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNMc043LWx3RRAB",
@@ -82676,8 +82676,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 270,
       "bodySha256": "2e5af1a940b3caeab5aaee854170b2f60e29b9263121de387f5c79dfecb354a0",
       "adapterVersion": "stamped@1",
@@ -82685,7 +82685,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-12",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUR6NDVEN0VREAE",
@@ -82894,8 +82894,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 271,
       "bodySha256": "9f738ff32c250e2ebb1269b516b36250cefd7c0c1b9b3e4e7ce7e2fa5ae7d390",
       "adapterVersion": "stamped@1",
@@ -82903,7 +82903,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-10",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUR6dnRucm1nRRAB",
@@ -83360,8 +83360,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 275,
       "bodySha256": "3b090cdd1247ff5259f8ef83c51d8c8a5af0757a70da06e8258dfd38df6ecf15",
       "adapterVersion": "stamped@1",
@@ -83369,7 +83369,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-05",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUN6eTRQOUNnEAE",
@@ -83766,8 +83766,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 276,
       "bodySha256": "8e10d1eb4ea6c41b96be41a782ca395d2d0f848e9e2675bf1cafa58468a32c70",
       "adapterVersion": "stamped@1",
@@ -83775,7 +83775,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:132858016",
@@ -83848,8 +83848,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 279,
       "bodySha256": "bdf4c059a3e6de561898cf275dda01c518e466c9e299c4800491abe43fa1c040",
       "adapterVersion": "stamped@1",
@@ -83857,7 +83857,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-02",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUN6b1lxTzlRRRAB",
@@ -84121,8 +84121,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 281,
       "bodySha256": "8926a1b20cd28f2e3baf71f66aa13c6c6e56c2d374465470b056ed6d22baf255",
       "adapterVersion": "stamped@1",
@@ -84130,7 +84130,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:132818386",
@@ -84212,8 +84212,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 282,
       "bodySha256": "d59fcbe1a17f22957829c9bd618bbcfb106b47b1f7f1dee70bffbdeee0a7af83",
       "adapterVersion": "stamped@1",
@@ -84221,7 +84221,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:132818199",
@@ -84294,8 +84294,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 283,
       "bodySha256": "e9ad2113e17fc6866c7795e6283922824a9c45c0e373cff8ac020998dfdc0128",
       "adapterVersion": "stamped@1",
@@ -84303,7 +84303,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-06-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUN6MnFyZVF3EAE",
@@ -84512,8 +84512,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 285,
       "bodySha256": "e9390149ae5bd26ef25a944d9585bf2b629b9a816d1f6589bd1fd228cd729a5e",
       "adapterVersion": "stamped@1",
@@ -84521,7 +84521,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-31",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:3c023a365e5a11bd4a7861f8",
@@ -84843,8 +84843,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 286,
       "bodySha256": "3069dc4dd30bca3978b22ad00d306e51f00d2afcc558f2c78cc3866b440c8b57",
       "adapterVersion": "stamped@1",
@@ -84852,7 +84852,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-31",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUN6OU9mX3J3RRAB",
@@ -85019,8 +85019,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 287,
       "bodySha256": "0373894c3137752d008babd252ec729b36a7f153b20e0ac2a81ea4c00931cc41",
       "adapterVersion": "stamped@1",
@@ -85028,7 +85028,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-31",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUN6dExTeGd3RRAB",
@@ -85370,8 +85370,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 290,
       "bodySha256": "6fa6d875d81e0690ac614f774e38bc06fefcb466debe68575919ea71d20a7d8a",
       "adapterVersion": "stamped@1",
@@ -85379,7 +85379,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-27",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURUczVuM0tBEAE",
@@ -85492,8 +85492,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 292,
       "bodySha256": "d60c51bbe8bd3cf2dd9c73430b48a7ec37eb3423ca018b3657de47ee54e44451",
       "adapterVersion": "stamped@1",
@@ -85501,7 +85501,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-27",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURUa19PWjZnRRAB",
@@ -85783,8 +85783,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 293,
       "bodySha256": "1d1c8e45f1d9043902be281fe7be776347618190f58c48a9a28de8deb9f29b84",
       "adapterVersion": "stamped@1",
@@ -85792,7 +85792,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-27",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:132589880",
@@ -85847,8 +85847,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 294,
       "bodySha256": "8a541908f5d7591f255ad2b6fa92158b7e2c8fd3a297f9019a2838a566f83a0b",
       "adapterVersion": "stamped@1",
@@ -85856,7 +85856,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-27",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:5b9670dd85c20f8912506061",
@@ -86092,8 +86092,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 295,
       "bodySha256": "616500091a0e3566e54f8c762d9e5b3bfb5bc10773edccec8de5ae34dbb65d83",
       "adapterVersion": "stamped@1",
@@ -86101,7 +86101,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-26",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:132552064",
@@ -86156,8 +86156,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 296,
       "bodySha256": "9b011a3353a2c6cb21841a03c33edeb664a9b964a869f6b3657137f07a60fef9",
       "adapterVersion": "stamped@1",
@@ -86165,7 +86165,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-25",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURUX3MtRG9BRRAB",
@@ -86314,8 +86314,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 298,
       "bodySha256": "7088e7700709217650fa528f700b5547a3cde86218ad6a1b4b50647be9c9603b",
       "adapterVersion": "stamped@1",
@@ -86323,7 +86323,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-24",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:8170cf33ec4b1e998130e326",
@@ -86671,8 +86671,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 302,
       "bodySha256": "19fa4131b92d19328295395fe6f78433a9c5c04d543b848ee0ccde1263087e4a",
       "adapterVersion": "stamped@1",
@@ -86680,7 +86680,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-23",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURUM0lqdDJBRRAB",
@@ -86888,8 +86888,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 303,
       "bodySha256": "c56cfacebe9b2f9638112069a845c825b7515541ea1ebb5d38edb815323d6df2",
       "adapterVersion": "stamped@1",
@@ -86897,7 +86897,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:132404172",
@@ -86961,8 +86961,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 304,
       "bodySha256": "d50a852dddcf9e9829acefd597f763daefd9a9638b030ca8f82e49f57235211b",
       "adapterVersion": "stamped@1",
@@ -86970,7 +86970,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:132379034",
@@ -87052,8 +87052,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 305,
       "bodySha256": "200ee3762b7ceb71548a70d36c6a931c856908fe68d6d27ceac627edcfc7976d",
       "adapterVersion": "stamped@1",
@@ -87061,7 +87061,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:132378983",
@@ -87143,8 +87143,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 306,
       "bodySha256": "34947835ee8c822c6073dd83470223545758b1154dbedd5e4c8559d723efddbe",
       "adapterVersion": "stamped@1",
@@ -87152,7 +87152,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:566e47f350fe7d4f19e87056",
@@ -87473,8 +87473,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 307,
       "bodySha256": "0b6a9b1a1d60f5fd88b288d6e828b4b9e522671f88cb20b1e8d3ec55c68cec1f",
       "adapterVersion": "stamped@1",
@@ -87482,7 +87482,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-19",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:9cd5b54379ff6b4df67766be",
@@ -87643,8 +87643,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 309,
       "bodySha256": "db78bd72be2ffd383c51cf7547a208e00b5732285ffe19a867963dad4e652e22",
       "adapterVersion": "stamped@1",
@@ -87652,7 +87652,7 @@
     },
     "status": "active",
     "firstSeenOn": "2024-05-16",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNUOGN2bndnRRAB",
@@ -88273,8 +88273,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 316,
       "bodySha256": "6e8af20f42b43d63501543d5df384ac9311b21bafefab5d0b8344586d7228267",
       "adapterVersion": "stamped@1",
@@ -88282,7 +88282,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-11-02",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNGODlpWkN3EAE",
@@ -88479,8 +88479,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 317,
       "bodySha256": "5ae5a44e3d57fa6a2bac4514e3c0f873681e3693bf115fee15f2877d5f828187",
       "adapterVersion": "stamped@1",
@@ -88488,7 +88488,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-27",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUQ1LTl6LTFRRRAB",
@@ -88876,8 +88876,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 318,
       "bodySha256": "748736066164f90b5164cbb915f9da84b93c4a66746293bfc8d1fb6a5dceec5c",
       "adapterVersion": "stamped@1",
@@ -88885,7 +88885,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-18",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUM1cjV2b1lnEAE",
@@ -89194,8 +89194,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 319,
       "bodySha256": "dc518c7ead0d08933512f41050191e4eaf39cc3ee9fb9d4521a93f2953fc0431",
       "adapterVersion": "stamped@1",
@@ -89203,7 +89203,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-17",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:0cf325b4cb1b243b983dea33",
@@ -89382,8 +89382,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 320,
       "bodySha256": "c9e506aeddd724104f62b4fa739d28dcee97060f9b1270fda60f21962b39cbb2",
       "adapterVersion": "stamped@1",
@@ -89391,7 +89391,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-16",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:120008257",
@@ -89446,8 +89446,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 321,
       "bodySha256": "c9e506aeddd724104f62b4fa739d28dcee97060f9b1270fda60f21962b39cbb2",
       "adapterVersion": "stamped@1",
@@ -89455,7 +89455,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-16",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUM1dmFpc2JBEAE",
@@ -89616,8 +89616,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 322,
       "bodySha256": "4e73f01c29a7ddef0a4842e4d0dbd305f81276c8acea6a69943012f439a6ce13",
       "adapterVersion": "stamped@1",
@@ -89625,7 +89625,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-16",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUM1aWZfdFJREAE",
@@ -89983,8 +89983,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 323,
       "bodySha256": "eb94f189a2e7d1948235087d4d0d17912733457d13a85c1fe81035116033f639",
       "adapterVersion": "stamped@1",
@@ -89992,7 +89992,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-13",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:9185ceafe5b7ce7ebcdf11ef",
@@ -90095,8 +90095,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 324,
       "bodySha256": "a3980317ff4ca640877f1f9de732921d3fc345c6e619dbacfe6069cf50923831",
       "adapterVersion": "stamped@1",
@@ -90104,7 +90104,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-11",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:119827349",
@@ -90159,8 +90159,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 325,
       "bodySha256": "552143fc0845a486287011b8f07c2a094df5e81be3d15735d47f3b0337538ac5",
       "adapterVersion": "stamped@1",
@@ -90168,7 +90168,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-11",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUM1dE1XZGZnEAE",
@@ -90281,8 +90281,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 326,
       "bodySha256": "25495f6a254c9b2149419df473e33a582cd1ab0bf660b16e4149f169d36139ac",
       "adapterVersion": "stamped@1",
@@ -90290,7 +90290,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-11",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUM1NUxXZG93RRAB",
@@ -90517,8 +90517,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 329,
       "bodySha256": "9d30fe716d7284562c662732d92c9e68154b8716c39be66e1c9f882480c17cea",
       "adapterVersion": "stamped@1",
@@ -90526,7 +90526,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-10",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUM1c05qTGJnEAE",
@@ -90696,8 +90696,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 331,
       "bodySha256": "1e821f132499a9de5eaf602d294489fbd02bbc15bc9afae64b194abf6ad0e813",
       "adapterVersion": "stamped@1",
@@ -90705,7 +90705,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-09",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUM1d0tfSDBnRRAB",
@@ -90827,8 +90827,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 332,
       "bodySha256": "be130b688785d081ef5e198d67c0f98d19498064bc0d291a2656425796cea29e",
       "adapterVersion": "stamped@1",
@@ -90836,7 +90836,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-09",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURadi02YnRBRRAB",
@@ -90949,8 +90949,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 333,
       "bodySha256": "a1b45386cde0b15bec6469863cda198ae06110ee588d8c6706fe891a8442f8fa",
       "adapterVersion": "stamped@1",
@@ -90958,7 +90958,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-09",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURadjVELVh3EAE",
@@ -91071,8 +91071,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 334,
       "bodySha256": "5b114ef521824148e495b4fa74900a8d5a44b2b49e295adc2c261b7952a4aca5",
       "adapterVersion": "stamped@1",
@@ -91080,7 +91080,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-09",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:95a599c3a72d2ab560b2cbe7",
@@ -91241,8 +91241,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 335,
       "bodySha256": "ad40e82ead5e6675dddb3fa98b08e6a56395fe78674ee3b66b3e1251363c8ff4",
       "adapterVersion": "stamped@1",
@@ -91250,7 +91250,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-09",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:254a9d9fd7218d64b6751413",
@@ -91505,8 +91505,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 337,
       "bodySha256": "4d2637050938beeb0e3c83e8b6ee80df063df18192a5430d9612dbabed3a6831",
       "adapterVersion": "stamped@1",
@@ -91514,7 +91514,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-07",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:1a6e4fe0c390b5f91e38a913",
@@ -91771,8 +91771,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 338,
       "bodySha256": "97d24b7ca44f56f1191e1d7ecb42b533b3c1db253d96bd2ca8449fc355ddc096",
       "adapterVersion": "stamped@1",
@@ -91780,7 +91780,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-05",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:24aea39ce3d158c9fe9dd18a",
@@ -91931,8 +91931,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 339,
       "bodySha256": "3609c815859fea4fce476228a61c2dad0f14d67437c136e7019c9230e5aac3b5",
       "adapterVersion": "stamped@1",
@@ -91940,7 +91940,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:ae9661f6e1b284bd8abbfe36",
@@ -92164,8 +92164,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 340,
       "bodySha256": "ad6c18ffb06d2cc469a2708f50975920c42f1c4620e10a404943efc973976366",
       "adapterVersion": "stamped@1",
@@ -92173,7 +92173,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:3200c7ea1cb7a3339165aaca",
@@ -92294,8 +92294,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 341,
       "bodySha256": "419f18a53818542fc874d10589d1f76dada7765c6e49f8e4393edb29d3aef027",
       "adapterVersion": "stamped@1",
@@ -92303,7 +92303,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURabWZ2bjZBRRAB",
@@ -92461,8 +92461,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 342,
       "bodySha256": "6748df2c8c9e4f8910914fd8c3c6e4e3a78532ab25349bcbcac1b53953e1d97f",
       "adapterVersion": "stamped@1",
@@ -92470,7 +92470,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURaNmNIbWd3RRAB",
@@ -92819,8 +92819,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 344,
       "bodySha256": "1021ffaf7fe98debee396eb526e4e50070b71779fad221db3d3b9f58da5a5b6b",
       "adapterVersion": "stamped@1",
@@ -92828,7 +92828,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-02",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURadnUtYklBEAE",
@@ -93017,8 +93017,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 345,
       "bodySha256": "b614967a3b422288412b52f8a0a38cb85856e94dcc3384c18c90b2065e05e9a5",
       "adapterVersion": "stamped@1",
@@ -93026,7 +93026,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:04538fa86e4954f4e9ebfb41",
@@ -93205,8 +93205,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 346,
       "bodySha256": "b614967a3b422288412b52f8a0a38cb85856e94dcc3384c18c90b2065e05e9a5",
       "adapterVersion": "stamped@1",
@@ -93214,7 +93214,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:31db702c71c6aef238dcc23d",
@@ -93384,8 +93384,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 347,
       "bodySha256": "f05ec7b145ece977e4c371390f469aefaf3a9dde7c223465539ec0574d3ecd6e",
       "adapterVersion": "stamped@1",
@@ -93393,7 +93393,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURacnJ2bnlnRRAB",
@@ -93590,8 +93590,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 348,
       "bodySha256": "f86a424a3d60986a81a0baf0ad6bac6c2ddf99401e94c47528dd5f8a6a8fda67",
       "adapterVersion": "stamped@1",
@@ -93599,7 +93599,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-10-01",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURacHYyVXpRRRAB",
@@ -93748,8 +93748,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 349,
       "bodySha256": "7171fad7e2f843c67d7bb92113f5f7489bdf02e12bc6d9b9920249b4b433d107",
       "adapterVersion": "stamped@1",
@@ -93757,7 +93757,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-30",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURac3FXdGlRRRAB",
@@ -93906,8 +93906,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 350,
       "bodySha256": "129528ca0ab0fb3f6e1f7fa0c62efd402f432cb8c8cbabb4dde8afde74498002",
       "adapterVersion": "stamped@1",
@@ -93915,7 +93915,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-28",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURac3FIUUJnEAE",
@@ -94046,8 +94046,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 353,
       "bodySha256": "bc5cb8ea5310c13538d92c7a6a9dee6f6e1bef36317781c0672e03b7b72aff49",
       "adapterVersion": "stamped@1",
@@ -94055,7 +94055,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-28",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:9670c983afd0ddfce551e33f",
@@ -94167,8 +94167,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 354,
       "bodySha256": "a530ffd27620ea849d0baf91cf085a589a1c7971e54177fd613362f108349624",
       "adapterVersion": "stamped@1",
@@ -94176,7 +94176,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-27",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:119058323",
@@ -94231,8 +94231,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 355,
       "bodySha256": "ee63d134bfb85f7e9a5c74cd29b3aa928bebb516a86667c840c7e7224d4e7f44",
       "adapterVersion": "stamped@1",
@@ -94240,7 +94240,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-26",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURadEkydzFBRRAB",
@@ -94371,8 +94371,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 356,
       "bodySha256": "0f5164b5a4644a88d030d98e80100fe9ba9ac540434c0b41e71310e816599ff0",
       "adapterVersion": "stamped@1",
@@ -94380,7 +94380,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-25",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:119039814",
@@ -94435,8 +94435,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 357,
       "bodySha256": "e84e17a8e74ecfe4e336e351c031753a27e3d96dca8b03a998aa07fcbfc696b5",
       "adapterVersion": "stamped@1",
@@ -94444,7 +94444,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-25",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:61410dc3b6992c8aa6b59571",
@@ -94677,8 +94677,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 358,
       "bodySha256": "74f72b81fc5129130a1d00ec36a19d37a8d8a2678f804ec0579c2d0715e9f943",
       "adapterVersion": "stamped@1",
@@ -94686,7 +94686,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-25",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:75cd894da70ecb0693044c0c",
@@ -94865,8 +94865,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 359,
       "bodySha256": "e2525aa494e1afd29e642cb109540bd6602daaa90f90bde8d4ee357246885d7b",
       "adapterVersion": "stamped@1",
@@ -94874,7 +94874,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-24",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSURadVBqUzVRRRAB",
@@ -94987,8 +94987,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 360,
       "bodySha256": "913a7b2194feec52d350089bbf229eb21c8460fbc63f735d2eca69b7ca4709f2",
       "adapterVersion": "stamped@1",
@@ -94996,7 +94996,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-24",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:118987663",
@@ -95051,8 +95051,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 361,
       "bodySha256": "582178e37b89c26c0e9d7e1a71ca33dfbee1e3ee1f8e9bfa318b574c6387a6ea",
       "adapterVersion": "stamped@1",
@@ -95060,7 +95060,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-23",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURaNks3bEV3EAE",
@@ -95200,8 +95200,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 362,
       "bodySha256": "f7821a68b28fa290e87cb85102c307844165e9e340641e03f94ab5052420e1ad",
       "adapterVersion": "stamped@1",
@@ -95209,7 +95209,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-23",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSURaeUxHMEdnEAE",
@@ -95389,8 +95389,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 363,
       "bodySha256": "7cba67cc976fb0e9db1e3cf9856812f278a485de8158f23f5e4cf23e39166452",
       "adapterVersion": "stamped@1",
@@ -95398,7 +95398,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-23",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:6454957960493cbf04956914",
@@ -95501,8 +95501,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 364,
       "bodySha256": "5f0cbfd4f2f9e096117345a2d45911fa2fbe2d986624984df7ca7c8915aad395",
       "adapterVersion": "stamped@1",
@@ -95510,7 +95510,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:3a4f8dee21963979e47f5a70",
@@ -95689,8 +95689,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 365,
       "bodySha256": "6f3655ec841a590f573bc7d2a245d0f25768a81625a75bd5914f857759feb4fb",
       "adapterVersion": "stamped@1",
@@ -95698,7 +95698,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-22",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:118852341",
@@ -95753,8 +95753,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 366,
       "bodySha256": "1760c14e0987332c435cf75ef2dc8b92834b59dd3453800384e1e2eeaf93571e",
       "adapterVersion": "stamped@1",
@@ -95762,7 +95762,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-21",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNaOTlXUFBnEAE",
@@ -95902,8 +95902,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 367,
       "bodySha256": "3729519c9c3b909d7b9da5d82eedee2aca349acc5e6acefb156c8404b8b76e98",
       "adapterVersion": "stamped@1",
@@ -95911,7 +95911,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-20",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChdDSUhNMG9nS0VJQ0FnSUNabF92UHVRRRAB",
@@ -96033,8 +96033,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 368,
       "bodySha256": "84db6188d1ea8446ca7a55fab22fe017dd39d8f277ab375b793de9d75710fa0c",
       "adapterVersion": "stamped@1",
@@ -96042,7 +96042,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-20",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:118702973",
@@ -96106,8 +96106,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 369,
       "bodySha256": "4d5d79a2c3637b92e1e76194be0dc1e73b2ce94c0e8aeb1f4b938e15f7a9ea07",
       "adapterVersion": "stamped@1",
@@ -96115,7 +96115,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-18",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNabTRUVURREAE",
@@ -96388,8 +96388,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 370,
       "bodySha256": "8614f2fa4a1cea7d8d139a4962682ed81bb1dddb3d784a91d7472545016a15df",
       "adapterVersion": "stamped@1",
@@ -96397,7 +96397,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-11",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "google:ChZDSUhNMG9nS0VJQ0FnSUNabnRtc05BEAE",
@@ -96582,8 +96582,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 371,
       "bodySha256": "d249e10775bca0e063faecdb68be9ebf7266430e7795ad3a03fdc4bd589da175",
       "adapterVersion": "stamped@1",
@@ -96591,7 +96591,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-11",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:117941040",
@@ -96646,8 +96646,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 372,
       "bodySha256": "978cc3342125d0b2ca38e213a6bc336ba20f01505689a0d9278570829f44ee95",
       "adapterVersion": "stamped@1",
@@ -96655,7 +96655,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-09",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "facebook:86a59538fc6e9ac74352c8a5",
@@ -96758,8 +96758,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 373,
       "bodySha256": "4a463c6c3ce9d7848e98337711d90df3970a7cd962613d0224f9cc63f8bd49a5",
       "adapterVersion": "stamped@1",
@@ -96767,7 +96767,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-09-09",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114447884",
@@ -96822,8 +96822,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 374,
       "bodySha256": "80d20f3d49be41d17c644fcead65bbf985ca8ba1383cfe1f645b996c14e1288a",
       "adapterVersion": "stamped@1",
@@ -96831,7 +96831,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114447869",
@@ -96886,8 +96886,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 375,
       "bodySha256": "d07ea24b13b8706fe15dbed1a61d9375dd826ed34d59aa92d972a33b66daa2b2",
       "adapterVersion": "stamped@1",
@@ -96895,7 +96895,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114447792",
@@ -96950,8 +96950,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 376,
       "bodySha256": "05f3d4df3f68da5abecab80412b98657c05c8eece419bc6a95d763b0d70784cd",
       "adapterVersion": "stamped@1",
@@ -96959,7 +96959,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114447782",
@@ -97014,8 +97014,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 377,
       "bodySha256": "4788c2c6af37a2018ac2a19971eb8fe04bd26c7386d4191dc1e9b47192edd2b4",
       "adapterVersion": "stamped@1",
@@ -97023,7 +97023,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114447775",
@@ -97078,8 +97078,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 378,
       "bodySha256": "393c6cf81d704a929bd96a034580d8330c7357b2151ef917c3982b4a4be65175",
       "adapterVersion": "stamped@1",
@@ -97087,7 +97087,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114447711",
@@ -97142,8 +97142,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 379,
       "bodySha256": "84732e3b83bd8623053478e049a3b65a28cb7e4111882aecbdfb9695c388fc80",
       "adapterVersion": "stamped@1",
@@ -97151,7 +97151,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114447698",
@@ -97206,8 +97206,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 380,
       "bodySha256": "951a288eb292a84ddd4811d7a34393c2b55418f90a1bb93e9c7c8f13ade88489",
       "adapterVersion": "stamped@1",
@@ -97215,7 +97215,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-04",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114359313",
@@ -97270,8 +97270,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 383,
       "bodySha256": "b5d50dde802de8e52feda26ee78e46ef90b2d78acd61e95c8472eb238fca45c1",
       "adapterVersion": "stamped@1",
@@ -97279,7 +97279,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-03",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114359301",
@@ -97334,8 +97334,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 384,
       "bodySha256": "7189d0174d5b01a5156ece4e5a9c1e578915c8ab47c67d30b9bc5a8161004177",
       "adapterVersion": "stamped@1",
@@ -97343,7 +97343,7 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-03",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   },
   {
     "id": "stamped:114145775",
@@ -97398,8 +97398,8 @@
       "attributionUrl": null
     },
     "provenance": {
-      "harvestedAt": "2026-07-27T14:17:19.041Z",
-      "snapshot": "data/raw/2026-07-27T141719Z/stamped.json.gz",
+      "harvestedAt": "2026-07-31T16:33:56.254Z",
+      "snapshot": "data/raw/2026-07-31T163356Z/stamped.json.gz",
       "rawIndex": 416,
       "bodySha256": "c1a6670e59e3304faebc8c65748c85d17bd9c71c63b5b8644a780064c62f6b16",
       "adapterVersion": "stamped@1",
@@ -97407,6 +97407,6 @@
     },
     "status": "active",
     "firstSeenOn": "2023-08-02",
-    "lastSeenOn": "2026-07-27"
+    "lastSeenOn": "2026-07-31"
   }
 ]
