@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/smilefam-reviews/_next/static/chunks/20kxrytddc7gl.js","/smilefam-reviews/_next/static/chunks/233fjiur5ldux.js"],"default"]
+3:I[37457,["/smilefam-reviews/_next/static/chunks/20kxrytddc7gl.js","/smilefam-reviews/_next/static/chunks/233fjiur5ldux.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"N1k7NUntDfI3rO1qwoH0B"}
